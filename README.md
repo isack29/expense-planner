@@ -21,4 +21,4 @@ Una aplicación de planificación de gastos personales desarrollada en **React**
 
 ## 🚀 Demo
 
-[🔗lustrous-brigadeiros-fbd666.netlify.app ](#)
+[🔗https://67fbc5929cca2225b7f71381--lustrous-brigadeiros-fbd666.netlify.app/ ](#)
